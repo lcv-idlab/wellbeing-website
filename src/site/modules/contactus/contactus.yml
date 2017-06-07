@@ -1,0 +1,14 @@
+title: Contact us
+pages: false
+files: true
+options:
+  preview: false
+  template: false
+  
+fields:
+  title:
+    label: Title
+    type:  text
+  text:
+    label: Text
+    type: textarea

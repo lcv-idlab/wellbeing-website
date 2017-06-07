@@ -27,7 +27,17 @@
           <?php echo $item->where()->html() ?>
         </div>
         <div class="linkcontact">
-          <a href="<?php echo $item->link()->url() ?>"><?php echo $item->linktext()->html() ?></a>
+          <?php if($item->link()->isNotEmpty() and $item->linktext() != "Contact us"): ?>
+            <a href="<?php echo $item->link()->url() ?>" class="button">
+                <?php echo $item->linktext()->html() ?>
+            </a>
+          <?php elseif($item->linktext() == "Contact us"): ?>
+            <a href="/contact-us" class="button">
+                <?php echo $item->linktext()->html() ?>
+            </a>
+          <?php else: ?>
+              <?php echo $item->linktext()->html() ?>
+          <?php endif ?>
         </div>       
       </div>
     <?php endforeach ?>

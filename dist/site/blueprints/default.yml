@@ -12,6 +12,7 @@ pages:
     - module.activities
     - module.network
     - module.getinvolved
+    - module.contactus
     
 files: true
 options:
