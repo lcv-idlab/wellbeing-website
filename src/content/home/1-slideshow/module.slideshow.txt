@@ -7,12 +7,16 @@ Slides:
 - 
   img: 1.jpg
   text: |
-    <big>Forget about how you can’t
-    and focus on how you will</big>
-    – Pinco Pallino –
+    <big>Participate in Design
+    and wellbeing project
+    and become an active force
+    in designing your health</big>
 - 
   img: 2.jpg
-  text: ""
+  text: |
+    <big>We provide tools and shared wisdom
+    that empower you to live
+    an healthy and joyful life</big>
 - 
   img: 3.jpg
   text: ""

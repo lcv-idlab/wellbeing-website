@@ -1,4 +1,4 @@
-Title: getinvolved
+Title: Get involved
 
 ----
 
@@ -33,7 +33,7 @@ Survey:
     and students).
   when: Until end-Dec 2017.
   where: Worldwide
-  linktext: Start the survey
+  linktext: Survey coming soon
   link: ""
 
 ----
@@ -44,5 +44,5 @@ Lasttext: Contact us if you would like to involve your classroom and be part of 
 
 Maintitle: 
 
-You are an artist?</br>
+Are you an artist?</br>
 So, Get Involved...

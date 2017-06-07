@@ -7,8 +7,3 @@ Img: photo_network.jpg
 ----
 
 Text: 
-
->Bla bla bla bla bla
->bla bla bla
-
-<small>- Albert Einstein -</small>

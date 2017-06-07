@@ -12,15 +12,34 @@ Organizations:
     http://www.lcv.supsi.ch
 - 
   name: 'SUPSI - Dipartimento economia aziendale, sanità e sociale (DEASS)'
-  text: ""
+  text: >
+    The Department of Business Economics,
+    Health and Social Care (DEASS) was
+    created in 2014 from the fusion of the
+    Department of Health (DSAN) and the
+    Department of Business and Social
+    Sciences (DSAS). Integrating three
+    sectors (business economics, social and
+    health care) under one roof allowed the
+    Department to set itself the objective
+    of tackling the complex problems of
+    today’s world more effectively,
+    implementing a range of competences that
+    vary in terms of subject area but that
+    have historically displayed a natural
+    tendency toward integration.
 - 
   name: >
     Conservatorio della Svizzera Italiana
     (CSI)
-  text: ""
+  text: |
+    The University of Music is an affiliated department of SUPSI. The Conservatorio’s recognition as a University of Music has laid firm foundations for its continuing growth and rapidly developing initiatives. Flexible programmes of study, avant-garde research projects, teachers who are also top international performers. The growth of the Department of Research and Development has played a crucial part in bringing together musical scholarship and performance, with frequent exchanges of research and expertise.
+    Teaching and research are closely related. Interaction between these two fields of activity is fundamental to the School’s educational approach, helping to produce high-quality musicians and teachers.
 - 
   name: Accademia Teatro Dimitri (ATD)
-  text: ""
+  text: |
+    The Accademia Teatro Dimitri is a professional theater conservatory located in Verscio. Close to Monte Verità in Ascona, which became famous worldwide for the experiences of avant-garde artists of the early twentieth century, the region of the Terre di Pedemonte provides a context and an unparalleled atmosphere, a fountain of inspiration and beauty. This is a place in which the students are totally immersed in their practice and artistic research, inspired by the international ambiance which unites students and teachers from twenty different countries.
+    The training with a specialization in Physical Theatre offers a unique path for students, with the goal of developing their creativity and their personality, as well as the acquisition and deepening of artistic techniques. The Accademia Teatro Dimitri is affiliated with SUPSI.
 
 ----
 
@@ -60,7 +79,7 @@ People:
     Leads CSI contribution to Design for
     Wellbeing project
 - 
-  img: ""
+  img: kunzstefan.jpg
   name: Stefan Kunz
   organization: SUPSI DEASS
   position: >
@@ -72,10 +91,10 @@ People:
   organization: Accademia Teatro Dimitri
   position: ""
 - 
-  img: ""
+  img: deniselombardi.jpg
   name: Denise Lombardi
-  organization: ""
-  position: Anthropologist
+  organization: Scientific collaborator
+  position: Ethnographic research
 - 
   img: giancarlo_gianocca.jpg
   name: Giancarlo Gianocca
@@ -90,7 +109,7 @@ People:
   img: marco-lurati.jpg
   name: Marco Lurati
   organization: SUPSI LCV
-  position: Software Design
+  position: Scientific Collaborator
 
 ----
 
