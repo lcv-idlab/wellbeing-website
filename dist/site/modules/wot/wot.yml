@@ -1,0 +1,37 @@
+title: Wall of Text
+icon: columns
+pages: false
+files: false
+options:
+  preview: false
+  template: false
+fields:
+  title:
+    label: Title
+    type: text
+    width: 4/5
+  hidetitle:
+    label: Hide title
+    type: checkbox
+    width: 1/5
+  
+  contents:
+    label: Text segments
+    type: structure
+    modalsize: large
+    fields:
+      sectiontitle:
+        label: Segment Title
+        type: text
+        width: 2/3
+      sectionanchor:
+        label: Segment Anchor
+        type: text
+        width: 1/3
+        help: Fill out to promote this segment to a menu item
+      left:
+        label: Text Column Left
+        type: textarea
+      right: 
+        label: Text Column Right
+        type: textarea

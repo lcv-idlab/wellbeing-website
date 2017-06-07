@@ -1,0 +1,30 @@
+.singleimage
+  position relative
+  
+  img
+    display block 
+    max-width 100%
+
+  .text
+    position absolute
+    left 0 
+    top 0 
+    width 100%
+    height 100%
+    display flex
+    background-color imagetextbackground
+    color imagetextcolor
+    justify-content flex-end
+    align-items center
+
++bp(medium) 
+  .singleimage .text
+    fontsize(xl)
+    weight(bold)
+
+
+
++bp(large) 
+  .singleimage .text
+    fontsize(xxxl)
+

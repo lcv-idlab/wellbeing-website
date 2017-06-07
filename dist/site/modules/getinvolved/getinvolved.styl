@@ -1,0 +1,69 @@
+.getinvolved
+	.inner
+		padding-top 0
+
+		.maintitle
+			contentspacing(1)
+			background wotbackground
+			padding-top 2rem
+			padding-bottom 2rem
+			
+			h2
+				color maincolor
+		
+		.lasttext
+			contentspacing(1)
+			background wotbackground
+			padding-top 2rem
+			padding-bottom 3rem
+			
+		.contacts
+			contentspacing(1)
+			
+			.contactform
+				margin-bottom 3rem
+				margin-top 2rem
+				
+				h3
+					color black
+					fontsize(l)
+					
+				.wwww
+					h4
+						color maincolor
+						weight(normal)
+						fontsize(l)
+						margin-bottom 0
+				
+				.linkcontact
+					margin-top 1rem
+					
+					a
+						color ci_green
+						
+			.contactform + .contactform
+				border-top 1px solid maincolor
+
++bp(large)
+	.getinvolved
+		.inner
+			.maintitle
+				lost-utility clearfix
+				p
+					max-width 50%
+			.contacts
+				lost-utility clearfix
+				
+				.contactform	
+					lost-column 1/2
+					
+				.contactform:first-child
+					padding-right 1rem
+					border-right 1px solid maincolor
+					
+				.contactform + .contactform
+					border-top 0
+			
+			.lasttext
+				p
+					max-width 50%

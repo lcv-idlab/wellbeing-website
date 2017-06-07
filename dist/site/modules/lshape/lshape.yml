@@ -1,0 +1,30 @@
+title: L Shape
+pages: false
+files: false
+options:
+  preview: false
+  template: false
+fields:
+  title:
+    label: Title
+    type:  text
+
+  intro:
+    label: Intro
+    type: textarea
+    width: 1/2
+
+  space:
+    text: ""
+    type: info
+    width: 1/2
+  
+  left:
+    label: Text Column Left
+    type: textarea
+    width: 1/2
+
+  right: 
+    label: Text Column Right
+    type: textarea
+    width: 1/2

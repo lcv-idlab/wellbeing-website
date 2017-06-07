@@ -1,0 +1,72 @@
+Title: Activities
+
+----
+
+Left: Design for Wellbeing will last 12 months starting in march 2017. The proposed project’s methodology is distinctive. Some people and especially musicians have already in their inner self some knowledge to face positively stressful life challenges.
+
+----
+
+Right: This research provides an opportunity to light up those competences and make them shareable activating a self-learning mechanism. Following a bottom-up research method combined with participatory design, techniques and best practices will be identified, organized and incorporated into an easily-accessible Open Access Toolkit. The Toolkit will be refined, developed and tested in different learning contexts.
+
+----
+
+Phases: 
+
+- 
+  title: Phase 1
+  name: User Research
+  text: >
+    The data collection and analysis will
+    profit from the partner project Musical
+    Impact (RCM) and the previous studies on
+    performers’ stress management leaded
+    by the partners institutions. These
+    roots are combined with ethnographic
+    research involving professionals as well
+    as students.
+- 
+  title: Phase 2
+  name: Analysis
+  text: >
+    Collected perspectives of strategies,
+    behavioural and physical activities will
+    be mapped and addressed in strategy
+    patterns to define user needs and the
+    Toolkit framework.
+- 
+  title: Phase 3
+  name: Design and Modelling
+  text: >
+    A first version of the toolkit will be
+    developed in a low tech prototype
+    through participatory design activities
+    with students and designer. This phase
+    drives the refinement of experiential
+    specifications that create the basis for
+    the definition of a dynamic toolkit.
+- 
+  title: Phase 4
+  name: Open Access Toolkit dev.
+  text: >
+    The low-fidelity prototype of the
+    Toolkit will be tested and evaluated
+    with volunteer professional performers,
+    students and teachers from music and
+    theatre schools. The digital version of
+    the Tool will then developed and
+    implemented. During this phase the
+    toolkit will be open to different
+    educational contexts.
+- 
+  title: Phase 5
+  name: Exploration
+  text: >
+    The Exploration phase consists of a
+    Future Scenario design workshop in which
+    the toolkit will be enhanced and
+    extended into the technology realm
+    through a co-creative design approach
+
+----
+
+Img: photo_activities2.jpg

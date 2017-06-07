@@ -1,0 +1,44 @@
+Title: wot
+
+----
+
+Showtitle: 
+
+----
+
+Contents: 
+
+- 
+  sectiontitle: Design Workshop
+  sectionanchor: design-workshop
+  left: |
+    ###Overview
+    
+    **Participants:**
+    Students of performing arts
+    
+    **Facilitators:**
+    Teacher and design mediators
+    
+    **Total Time:**
+    2-3 hours
+  right: '<big>The research points at exploring the role of the design in innovative bottom-up process and selflearning dynamics. In this way it starts a collaborative process within the design of the strategies toolkit, building and refining it with performing artists.</big>'
+- 
+  sectiontitle: Future Scenarios
+  sectionanchor: future
+  left: |
+    ###Overview
+    
+    **Participants:**
+    Designers, technologists, researchers, professional performers, teachers
+    
+    **Facilitators:**
+    Moderator, 2 volunteers
+    
+    **Total Time:**
+    1 day
+  right: '<big>Future Scenarios for collaborative projects will be held in February 2018. Selected good behaviours of anxiety management will be enhanced and enriched by sensing technologies through a co-creative workshop for envisioning new future scenarios of emotional regulation self-learning.</big>'
+
+----
+
+Hidetitle: 1

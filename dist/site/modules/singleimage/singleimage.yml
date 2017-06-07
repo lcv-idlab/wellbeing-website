@@ -1,0 +1,17 @@
+title: Single Image
+icon: picture-o
+pages: false
+files: true
+options:
+  preview: false
+  template: false
+fields:
+  title:
+    label: Title
+    type:  text
+  img: 
+    label: Image
+    type: image
+  text:
+    label: Text
+    type: textarea

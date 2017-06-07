@@ -1,0 +1,73 @@
+.network
+  padding-top 1rem 
+  padding-bottom 1rem
+  
+  contentspacing(1)
+
+  .inner
+    .partner
+      display block
+      padding-bottom 2rem
+      padding-top 1rem
+      
+      img
+        max-width 80%
+        margin-top 1rem
+        display block
+        margin-left auto
+        margin-right auto
+      
+      h3
+        a:link 
+          text-decoration none
+        
+        a:link, a:visited, a:hover, a:active
+          color maincolor
+        
+        a:hover
+          border-bottom 0.1rem solid maincolor
+        
+    .partner + .partner
+      margin-top 1rem
+      border-top 1px solid maincolor
+      
++bp(medium)
+  .network
+    .partnerlist
+      .partner
+        lost-utility clearfix
+        
+        h3
+          lost-column 2/3
+          
+        .lowerpart
+          lost-column 1/1
+          
+          .text, .img
+            lost-column 1/2
+    
+    .inner
+      .partner
+      
+        img
+          margin-top 0
+      
+    .partner + .partner
+      margin-top 3rem
+
+
++bp(large)
+  .network
+    padding-top gutter 
+    padding-bottom 2rem
+    
+    contentspacing(3, 2)
+    
+    .inner
+      .partner
+      
+        img
+          margin-top 0
+      
+      .partner + .partner
+        margin-top 1rem

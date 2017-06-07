@@ -1,0 +1,22 @@
+ul 
+  w = 1.0rem
+  h = .25rem
+  space = .7rem
+  
+  list-style none
+  padding-left (w + space)
+  
+  li
+    position relative
+    margin-bottom 1em
+    
+    &::before
+      content ""
+      position absolute
+      width w 
+      height h
+      border-radius (h / 2)
+      background-color maincolor
+      
+      top .5em
+      left (0rem - w - space)

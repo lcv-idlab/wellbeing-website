@@ -1,0 +1,42 @@
+title: Activities page
+pages: false
+files: true
+options:
+  preview: false
+  template: false
+fields:
+  title:
+    label: Title
+    type:  text
+
+  left:
+    label: Text
+    type: textarea
+    width: 1/2
+
+  right:
+    label: Text
+    type: textarea
+    width: 1/2
+
+  phases:
+    label: Phases
+    width: 1/2
+    type: structure
+    modalsize: large
+    fields:
+      title:
+        label: Title
+        type: text
+      name:
+        label: Name
+        type: text
+      text: 
+        label: Description
+        type: textarea
+
+  img:
+    label: Image
+    type: image
+    width: 1/2
+  

@@ -1,0 +1,33 @@
+.wot
+  contentspacing(1)
+  background wotbackground
+  padding-bottom gutter
+      
+  .section:not(:last-child) 
+    border-bottom 1px solid maincolor
+    margin-bottom gutter
+    padding-bottom gutter
+  
+  big
+    fontsize(l)
+    color maincolor
+    display block
+    padding 1rem
+
+
++bp(small)
+  .wot
+    big
+      padding 1rem
+
++bp(large)
+  .wot 
+    contentspacing(3)
+    
+    .row
+      lost-utility clearfix
+    .col 
+      lost-column 1/2 0 gutter
+    big
+      padding gutter
+      

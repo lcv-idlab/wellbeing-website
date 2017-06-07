@@ -1,0 +1,45 @@
+title: Who we are page
+pages: false
+files: true
+options:
+  preview: false
+  template: false
+fields:
+  title:
+    label: Title
+    type:  text
+  
+  organizations:
+    label: Organizations
+    type: structure
+    modalsize: large
+    fields: 
+      name:
+        label: Name
+        type: text
+      text: 
+        label: Description
+        type: textarea
+
+  peopletitle: 
+    label: People Title
+    type: text
+  
+  people:
+    label: People
+    type: structure
+    modalsize: small
+    style: table
+    fields: 
+      img:
+        label: Image
+        type: image
+      name: 
+        label: Name
+        type: text
+      organization:
+        label: Organization
+        type: text
+      position:
+        label: Position
+        type: textarea

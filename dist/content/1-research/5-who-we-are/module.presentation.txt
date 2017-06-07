@@ -1,0 +1,97 @@
+Title: Who we are
+
+----
+
+Organizations: 
+
+- 
+  name: 'SUPSI - Laboratory of Visual Culture (LCV)'
+  text: |
+    LCV is a space for applied research into the practices and socio-cultural meanings of visual culture and interactive media. In a context of transforming media communication and interfaces culture, we study the application, processes and methods of interactive technologies. We contextualise emerging practices critically reflecting on the user experiences, behaviours, aesthetics and impacts. LCV researches and develops educational models to explore the convergence of technology and design via prototyping and to promote the integration of bottom-up innovation models and community-driven approaches in design and education.
+    
+    http://www.lcv.supsi.ch
+- 
+  name: 'SUPSI - Dipartimento economia aziendale, sanità e sociale (DEASS)'
+  text: ""
+- 
+  name: >
+    Conservatorio della Svizzera Italiana
+    (CSI)
+  text: ""
+- 
+  name: Accademia Teatro Dimitri (ATD)
+  text: ""
+
+----
+
+People: 
+
+- 
+  name: Vanessa De Luca
+  organization: SUPSI LCV
+  position: >
+    Coordinator and project manager lead
+    Supsi contribution
+  img: vanessa.jpg
+- 
+  img: aron-williamon.jpg
+  name: Aaron Williamon
+  organization: 'Conservatorio  della Svizzera italiana'
+  position: Coordinator and scientific supervisor
+- 
+  img: hugenbuhler-ruth.jpg
+  name: Ruth Hungerbühler
+  organization: Accademia Teatro Dimitri
+  position: >
+    Leads ATD contribution to Design for
+    Wellbeing project
+- 
+  img: bausch-daniel.jpg
+  name: Daniel Bausch
+  organization: Accademia Teatro Dimitri
+  position: >
+    Responsible of Bachelor program and
+    prof. of theatre improvisation
+- 
+  img: ""
+  name: Hubert Eiholzer
+  organization: Conservatorio della Svizzera Italiana
+  position: >
+    Leads CSI contribution to Design for
+    Wellbeing project
+- 
+  img: ""
+  name: Stefan Kunz
+  organization: SUPSI DEASS
+  position: >
+    Supervisor of learning methods and
+    social science approach
+- 
+  img: ""
+  name: Veronica Provenzale
+  organization: Accademia Teatro Dimitri
+  position: ""
+- 
+  img: ""
+  name: Denise Lombardi
+  organization: ""
+  position: Anthropologist
+- 
+  img: giancarlo_gianocca.jpg
+  name: Giancarlo Gianocca
+  organization: SUPSI LCV
+  position: Visual Design
+- 
+  img: vale.jpg
+  name: Valentina Meldi
+  organization: SUPSI LCV
+  position: Visual Design
+- 
+  img: marco-lurati.jpg
+  name: Marco Lurati
+  organization: SUPSI LCV
+  position: Software Design
+
+----
+
+Peopletitle: People

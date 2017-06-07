@@ -1,0 +1,11 @@
+blockquote
+  position relative
+  &::before
+    content open-quote
+    position absolute
+    left -0.5em
+    
+  p:last-child
+    &::after
+      content close-quote
+      margin-left .1em

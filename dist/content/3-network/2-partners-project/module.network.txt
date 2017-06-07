@@ -1,0 +1,39 @@
+Title: Partners project
+
+----
+
+Partner: 
+
+- 
+  name: Musical Impact
+  text: '*Musical Impact* generates new knowledge of the physical and mental demands of music making, contribute new insight into chronic and acute health problems and their impact over time, and examine effective strategies for health promotion.'
+  link: http://musicalimpact.org/
+  logo: logo_network1.jpg
+- 
+  name: 'Tellmi - Technology Enhanced Learning of Musical Instrument Performance'
+  text: >
+    The main aim of the TELMI project is to
+    study how we learn musical instruments,
+    taking the violin as a case study, from
+    a pedagogical and scientific perspective
+    and to create new interactive,
+    assistive, self-learning,
+    augmented-feedback, and social-aware
+    systems complementary to traditional
+    teaching.
+  link: http://telmi.upf.edu/
+  logo: logo_network2.jpg
+- 
+  name: Healthy Conservatoires Network
+  text: >
+    The Healthy Conservatoires Network
+    brings together key stakeholders from
+    across UK Conservatoires and wider
+    performing arts sector to assist in
+    maintaining, developing and supporting
+    aspects of health promotion and
+    occupational well-being for performing
+    artists.
+  link: >
+    https://www.youtube.com/watch?v=8pemtW313o4
+  logo: logo_network3.jpg

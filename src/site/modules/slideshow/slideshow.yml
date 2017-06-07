@@ -1,0 +1,21 @@
+title: Slideshow
+pages: false
+files: true
+options:
+  preview: false
+  template: false
+fields:
+  title:
+    label: Title
+    type:  text
+  slides:
+    label: Slides
+    type: structure
+    style: table
+    fields:
+      img: 
+        label: Image
+        type: image
+      text:
+        label: Text
+        type: textarea

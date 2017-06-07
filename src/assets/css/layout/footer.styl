@@ -1,0 +1,34 @@
+footer 
+  contentspacing(1)
+  padding-top 2rem
+  padding-bottom 2rem
+  background footerbackground
+  color footercolor
+ 
+  .text
+    padding-bottom gutter
+    
+  .logos
+
+    lost-utility clearfix
+    img
+      max-width 100%
+      max-height 4rem
+      margin 0 auto
+      display block
+    a 
+      lost-column 1/3
+      
++bp(medium)
+  footer
+    lost-utility clearfix
+  
+    .text 
+      lost-column 1/2
+      
+    .logos 
+      lost-column 1/2
+
++bp(large)
+  footer
+    contentspacing(3)

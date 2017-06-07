@@ -1,0 +1,25 @@
+visually-hidden()
+  position absolute
+  height 0
+  width 0
+  overflow hidden
+  
+remify(px)
+  return unit(px / base, 'rem')
+  
+bp(point)
+  @media screen and (min-width remify(breakpoints[point]))
+    {block}
+
+weight(w)
+  font-weight fontweights[w]
+  
+fontsize(amount)
+  font-size remify(unit(fontsizes[amount], 'px'))
+
+contentspacing(factor = 1, factorright = 'undefined')
+  if factorright == 'undefined'
+    factorright = factor
+    
+  padding-left 1rem * factor 
+  padding-right 1rem * factorright

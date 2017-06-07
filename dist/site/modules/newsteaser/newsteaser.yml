@@ -1,0 +1,24 @@
+title: News Teaser
+pages: false
+files: false
+options:
+  preview: false
+  template: false
+fields:
+  title:
+    label: Title
+    type: text
+
+  text:
+    label: Text
+    type: textarea
+
+  buttontext:
+    label: Button Text
+    type: text
+    width: 1/2
+  
+  buttonlink:
+    label: Button URL
+    type: text
+    width: 1/2

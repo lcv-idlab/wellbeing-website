@@ -1,0 +1,23 @@
+.halfcolumn
+  padding-top 1rem 
+  padding-bottom 1rem
+  
+  contentspacing(1)
+
+  img
+    max-width 100%
+    
++bp(medium)
+  .halfcolumn
+    .inner
+      lost-utility clearfix
+    .text, .img
+      lost-column 1/2
+
+
++bp(large)
+  .halfcolumn
+    padding-top gutter 
+    padding-bottom 2rem
+    
+    contentspacing(3, 2)

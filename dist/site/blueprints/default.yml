@@ -1,0 +1,26 @@
+title: Page
+pages:
+  template:
+    - module.slideshow
+    - module.singleimage
+    - module.wot
+    - module.halfcolumn
+    - module.lshape
+    - module.presentation
+    - module.publications
+    - module.newsteaser
+    - module.activities
+    - module.network
+    - module.getinvolved
+    
+files: true
+options:
+  template: false
+fields:
+  title:
+    label: Title
+    type:  text
+  help:
+    type: info
+    text: >
+      <div style="font-size: 1.5em; line-height: 1.5em">All content of this page is managed through the subpages on your left</div>

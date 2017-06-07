@@ -1,0 +1,47 @@
+title: Get involved
+pages: false
+files: true
+options:
+  preview: false
+  template: false
+  
+fields:
+  title:
+    label: Title
+    type:  text
+  maintitle:
+    label: Page title
+    type: textarea
+  text:
+    label: Text
+    type: textarea
+  
+  survey:
+    label: Survey
+    type: structure
+    fields:
+      title:
+        label: Title
+        type: text
+      what:
+        label: What
+        type: textarea
+      who:
+        label: Who
+        type: textarea
+      when:
+        label: When
+        type: textarea
+      where:
+        label: Where
+        type: textarea
+      linktext:
+        label: Link text
+        type: text
+      link:
+        label: Link url
+        type: url
+
+  lasttext:
+    label: Final text
+    type: textarea

@@ -1,0 +1,53 @@
+Title: Home
+
+----
+
+Header-image: header.jpg
+
+----
+
+Header-title: Gruppo|unito
+
+----
+
+Header-text: AXIM SA è una società leader in campo immobiliare in tutto il Canton Ticino. A capo del gruppo c’è Axim Group, coordinatrice di un team di 7 società, ognuna con competenze e specializzazioni diverse.
+
+----
+
+Header-link: servizi
+
+----
+
+Text: 
+
+----
+
+Oggetti-top-left-image: ulivo.jpg
+
+----
+
+Oggetti-top-right-image: sangiorgio.jpg
+
+----
+
+Oggetti-top-left-text: 
+
+Residenza L'Ulivo
+Tesserete
+(link: http://lulivo.aximsa.ch text: lulivo.aximsa.ch)
+
+----
+
+Oggetti-top-right-text: 
+
+Residenza San Giorgio
+Castagnola
+(link: http://sangiorgio.aximsa.ch text: sangiorgio.aximsa.ch)
+
+----
+
+Oggetti-top-left-link: http://lulivo.aximsa.ch
+
+----
+
+Oggetti-top-right-link: http://sangiorgio.aximsa.ch

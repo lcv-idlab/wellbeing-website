@@ -1,0 +1,21 @@
+Title: Outputs
+
+----
+
+Intro: Design for Wellbeing will generate new knowledge throughout two main outputs:
+
+----
+
+Left: 
+
+###Open Access Toolkit
+
+The Open Access Toolkit aims to bring a bottom-up perspective to the stress regulation practices. This digital toolkit wants to support emotional-regulation skills and their development through social learning dynamics considering important aspect such as knowledge sharing and self-growth engagement. It provides a framework to collect and address a suite of self-learning strategies for enhancing the concentration, motivation and positive attitudes in life challenging situations.
+
+----
+
+Right: 
+
+###Future Scenarios
+
+Knowledge transfer and cross fertilization are the priorities of this research project. The project aims to drive a co-creation and co-design workshop on the prototyping of new enhanced solutions through the collaboration of computational designers, technologists, researchers, performing artists and professionals. The Future Scenario is a one day design workshop that will be held in February 2018.

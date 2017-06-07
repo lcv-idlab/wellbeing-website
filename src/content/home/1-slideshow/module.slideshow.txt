@@ -1,0 +1,27 @@
+Title: Slideshow
+
+----
+
+Slides: 
+
+- 
+  img: 1.jpg
+  text: |
+    <big>Forget about how you can’t
+    and focus on how you will</big>
+    – Pinco Pallino –
+- 
+  img: 2.jpg
+  text: ""
+- 
+  img: 3.jpg
+  text: ""
+- 
+  img: 4.jpg
+  text: ""
+- 
+  img: 5.jpg
+  text: ""
+- 
+  img: 6.jpg
+  text: ""

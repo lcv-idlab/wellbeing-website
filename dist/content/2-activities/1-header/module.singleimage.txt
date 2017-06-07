@@ -1,0 +1,14 @@
+Title: header
+
+----
+
+Img: activities.jpg
+
+----
+
+Text: 
+
+>Play is the highest form
+>of research
+
+<small>- Albert Einstein -</small>

@@ -1,0 +1,75 @@
+.newsteaser
+  lost-utility clearfix
+  padding-top 1em
+  padding-bottom 1em
+
+  contentspacing(1)
+  
+  .text
+    padding-bottom 1rem
+    
+    big
+      fontsize(l)
+      
+    big, p
+      margin-bottom 2rem
+    
+  .button
+    background-color ci_green
+    color black
+    text-decoration none
+    padding 0.8rem 1.6rem
+    display inline-block
+    
+  .newspreviews
+    min-height remify(300px)
+    padding-bottom 7rem
+    
+    .flickity-page-dots
+      bottom 4rem
+
+    .newsarticle
+      lost-column 1/1 0
+      text-decoration none
+      color inherit
+      display block
+      img
+        max-width 100%
+        
+    .title
+      fontsize("s")
+      
+    .subtitle
+      fontsize("xs")
+      color ci_grey
+
++bp(small)
+  .newsteaser
+    .newspreviews
+      .newsarticle
+        lost-column 1/2 0
+        
++bp(medium)
+  .newsteaser
+    lost-utility clearfix
+    
+    .newspreviews
+      border-left 1px solid ci_grey
+      padding-left 2rem
+      .newsarticle
+        lost-column 1/1 0
+        
+    .text
+      lost-column 7/12
+    .newspreviews
+      lost-column 5/12
+      
++bp(large)
+  .newsteaser
+    padding-top 2em
+    padding-bottom 2em
+    contentspacing(3)
+    
+    .newspreviews
+      .newsarticle
+        lost-column 1/2 0

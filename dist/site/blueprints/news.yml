@@ -1,0 +1,10 @@
+title: News
+pages: article
+files: true
+options: 
+  template: false
+  
+fields:
+  title:
+    label: Title
+    type:  text

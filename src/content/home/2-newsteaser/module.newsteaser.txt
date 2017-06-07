@@ -1,0 +1,19 @@
+Title: newsteaser
+
+----
+
+Text: 
+
+<big>An Open Access Toolkit
+for managing stress and anxiety
+in performance contexts. </big>
+
+The project Design for Wellbeing brings together design research, performance science, performing arts (music and theatre) and health sciences to create an innovative publicly accessible Online Toolkit to help people identify and manage stress and anxiety.
+
+----
+
+Buttontext: Research
+
+----
+
+Buttonlink: research

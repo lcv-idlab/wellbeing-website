@@ -1,0 +1,59 @@
+article.news
+  contentspacing(1)
+  padding-bottom 1rem
+  
+  .text
+    padding-bottom 1rem
+    
+  .subtitle
+    fontsize("s")
+    color ci_grey
+    margin-bottom 1rem
+
+  h1
+    color maincolor
+  
+  h2
+    color inherit
+  
+  .row
+    lost-utility clearfix
+        
+  .first-image
+    margin-bottom 5px
+    img, &
+      display block
+    img
+      max-width 100%
+
+  .gallery 
+    lost-utility clearfix
+    a
+      lost-column 1/1 0 5px
+      img
+        max-width 100%
+
+
++bp(small)
+  article.news
+    .gallery 
+      a
+        lost-column 1/2 2 5px
+
++bp(medium)
+  article.news
+    .gallery 
+      a
+        lost-column 1/4 4 5px
+
++bp(large)
+  article.news
+    contentspacing(3)
+    padding-bottom 3rem 
+    
+    .col 
+      lost-column 1/2 0
+    
+    .gallery 
+      a
+        lost-column 1/2 2 5px

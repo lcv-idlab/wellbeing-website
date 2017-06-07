@@ -1,0 +1,51 @@
+Title: Overview
+
+----
+
+Contents: 
+
+- 
+  left: "At a time when wellbeing and happiness for each person has become a major topic of concern, we want to collect and share an informal knowledge of effective self-care strategies. This source involves the practitioners' ways of approaching and handling performance anxiety, the use of mindful sources and bodywork activities and other sources of good habits effects. Since it has developed by years of practice and despite of more formalized system of psychological approaches, humans intrinsic ability of stress survival has demonstrated its function to be more sustainable and effective in a long term than outsider intervention and institutions."
+  right: >
+    The problem is the lack of resources
+    that performing artists have in
+    sustaining good health and wellbeing and
+    the gap in educational sectors in
+    providing effective motivational
+    strategies. Training the new performers
+    and next generation in the ways of
+    self-care and stress consciousness was
+    usually done under the oversight of
+    community members and the teacher.
+    Following this storytelling tradition,
+    stories by professional musicians and
+    actors can create a fruitful
+    social-learning environment and help the
+    new generations of performers to care of
+    their emotional health and to improve
+    their lifestyle by enhancing their
+    skills in anxiety management.
+- 
+  left: |
+    <big>The uniqueness point of the research is the methodological approach driven by the design perspective.</big>
+    
+    If psychology and cognitive science can provide research tools and direction to go through the body-mind balance, user-centered design talks about how to help people to engage with positive behaviours and be motivated.
+  right: '<big>With the design approach we want to construct a meaning in the performance world that is qualitative and social. As output of the research the Open Access Toolkit provides an aid to help people explore their own thinking and relationship with behaviours that make them healthy, happy and efficient.</big>'
+- 
+  left: >
+    One benefit of be part of this project
+    is personal, insider knowledge of coping
+    stress strategies makes people confident
+    and performances more effective. Another
+    is public, sharing your best experiences
+    through peers and become a testimonial
+    is a way to support a wider community
+    involved in personal growth processes.
+    This bunch of knowledge offers the best
+    form of personalized lifestyle
+    improvements as different coping
+    strategies respond best to different
+    people.
+  right: |
+    For this reason the potential value of the Open Toolkit can be estimated with the growing of its community:
+    <big>who has the power to incorporate positive strategies to flourish in their own potentials.</big>

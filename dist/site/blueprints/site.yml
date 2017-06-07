@@ -1,0 +1,35 @@
+title: Site
+pages: default
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  
+  logomax:
+    label: Logo large
+    type: image
+    width: 1/2
+
+  logomin:
+    label: Logo small
+    type: image
+    width: 1/2
+
+  footertext:
+    label: Footer text
+    type: textarea
+
+  logos:
+    label: Footer logos
+    type: structure
+    limit: 3
+        
+    fields:
+      logo: 
+        label: Logo
+        type: image
+
+      website:
+        label: URL
+        type: url

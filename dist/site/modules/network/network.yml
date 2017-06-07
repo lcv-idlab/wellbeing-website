@@ -1,0 +1,28 @@
+title: Network
+pages: false
+files: true
+options:
+  preview: false
+  template: false
+  
+fields:
+  title:
+    label: Title
+    type:  text
+  
+  partner:
+    label: Partners
+    type: structure
+    fields:
+      name:
+        label: Name
+        type: text
+      text:
+        label: Text
+        type: textarea
+      link:
+        label: Website
+        type: url
+      logo:
+        label: Logo
+        type: image
