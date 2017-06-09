@@ -7,9 +7,10 @@ nav
   width maxwidth
   background-color #fff
   max-width 100%
-  height remify(headerheight)
+  height headerheight
   display flex
   justify-content space-between
+  border-bottom 0.08rem solid maincolor
   
   .mobilemenu 
     position absolute
@@ -39,7 +40,7 @@ nav
     justify-content center
     align-items center
     margin-left auto
-    width remify(headerheight)
+    width headerheight
     position relative
     z-index 3
 
@@ -57,7 +58,7 @@ nav
     flex-basis 40%
     
     img
-      max-height remify(headerheight)
+      max-height headerheight
 
     .large
       display none
@@ -69,7 +70,9 @@ nav
         display none
         
 +bp(large)
-  nav 
+  nav
+    border-bottom none
+    
     .text
       display block
       flex-basis 60%

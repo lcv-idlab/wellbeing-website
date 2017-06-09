@@ -7,7 +7,7 @@ Organizations:
 - 
   name: 'SUPSI - Laboratory of Visual Culture (LCV)'
   text: |
-    LCV is a space for applied research into the practices and socio-cultural meanings of visual culture and interactive media. In a context of transforming media communication and interfaces culture, we study the application, processes and methods of interactive technologies. We contextualise emerging practices critically reflecting on the user experiences, behaviours, aesthetics and impacts. LCV researches and develops educational models to explore the convergence of technology and design via prototyping and to promote the integration of bottom-up innovation models and community-driven approaches in design and education.
+    Part of the Department for Environment Constructions and Design, LCV is a space for applied research into the practices and socio-cultural meanings of visual culture and interactive media. In a context of transforming media communication and interfaces culture, we study the application, processes and methods of interactive technologies. We contextualise emerging practices critically reflecting on the user experiences, behaviours, aesthetics and impacts. LCV researches and develops educational models to explore the convergence of technology and design via prototyping and to promote the integration of bottom-up innovation models and community-driven approaches in design and education.
     
     http://www.lcv.supsi.ch
 - 

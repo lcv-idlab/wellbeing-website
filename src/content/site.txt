@@ -10,7 +10,7 @@ Logomin: wellbeingsmall.png
 
 ----
 
-Footertext: Design for Wellbeing is a collaborative research project coordinated by the Laboratory of Visual Culture and the Conservatorio Svizzera italiana and funded by the SUPSI in partnership with Accademia Teatro Dimitri.
+Footertext: Design for Wellbeing is a collaborative research project coordinated by the Laboratory of Visual Culture and the Conservatorio della Svizzera italiana, in partnership with Accademia Teatro Dimitri and the Department of Business Economics, Health and Social Care. The project is supported by SUPSI’s strategic research funding.
 
 ----
 
