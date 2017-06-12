@@ -43,6 +43,10 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*) index.php [L]
 
+# set an expiring time to celan the cache of specific contents
+ExpiresActive On
+ExpiresByType text/css "access plus 1 day"
+
 </IfModule>
 
 # Additional recommended values

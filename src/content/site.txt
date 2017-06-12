@@ -10,7 +10,7 @@ Logomin: wellbeingsmall.png
 
 ----
 
-Footertext: Design for Wellbeing is a collaborative research project coordinated by the (link: http://www.lcv.supsi.ch text: Laboratory of Visual Culture) and the (link: http://www.conservatorio.ch text: Conservatorio della Svizzera italiana), in partnership with (link: http://www.accademiadimitri.ch/ text: Accademia Teatro Dimitri) and the (link: http://www.supsi.ch/deass text: Department of Business Economics, Health and Social Care). The project is supported by SUPSI’s strategic research funding.
+Footertext: Design for Wellbeing is a collaborative research project coordinated by the (link: http://www.lcv.supsi.ch text: Laboratory of Visual Culture target: _blank) and the (link: http://www.conservatorio.ch text: Conservatorio della Svizzera italiana target: _blank), in partnership with (link: http://www.accademiadimitri.ch/ text: Accademia Teatro Dimitri target: _blank) and the (link: http://www.supsi.ch/deass text: Department of Business Economics, Health and Social Care target: _blank). The project is supported by SUPSI’s strategic research funding.
 
 ----
 
