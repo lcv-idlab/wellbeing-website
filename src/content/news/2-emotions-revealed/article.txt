@@ -1,0 +1,26 @@
+Title: Emotions revealed
+
+----
+
+Subtitle: Material Design Journal #2
+
+----
+
+Text: 
+
+Nowadays there are many solutions in the market that use sensing technology to read and measure our emotions supporting us be aware of our lives. As designers we can explore those solutions to empower our personal interactive interfaces using a new set of tools.
+In the framework of MD Journal, an Open Access publication, you can find my article ‘Beyond the interface: emotions and interaction design for well-being’ (original title ‘(link: http://www.materialdesign.it/media/formato2/allegati_5780.pdf text: Oltre l’interfaccia: emozioni e design dell’interazione per il benessere)’) 
+This article proposes a first exploration of the role of emotions in interaction design and a fresh perspective on how theoretical and technological roots can productively evolve. Starting from the basic consideration that emotions are at the core of human interactions, it aims to define fundamentals, challenges, trends and opportunities for the development of the relationship between interaction design and emotions to improve wellbeing.
+Can interaction design favors well-being attitude? How to drive positive states of mind through digital technologies? Starting from a review of the most prominent theories about the science of happiness (De Bono, 1991; Ekman, 2003; Lyubomirsky, 2005), positive psychology and creative thinking, I defined a spectrum of positive emotions that can drive designers to approach interactive projects.
+Even if emotions are almost irrational feedback we have to process and reply to everyday challenges (Gaver, 1999), from the technological point of view, they are interesting human data as innate spontaneous experiences sometimes triggered by products and media (Fogg, 2009). 
+Playing game is a powerful example of interactive interface in which human emotions are the core of the designed experience. During the play activity can be noticed three typology of happiness 1. Pleasure and gratification 2. Power and virtue 3. Meaning and clear objectives (Selingman, 2011)
+Nowadays, the tendency is to prototype applications to analyse emotions and train self-awareness. Next step is to combine these with automatic emotional sensing technologies to promote adaptive contexts based on personal data resources and engage people in more conscious actions. A step further is to design broaden thought-action social environments direct to support individual growth and social transformation.
+
+*References*
+- Ekman, P. (2003) Emotions Revealed. Recognizing faces and Feelings to Improve Communication and Emotional Life., NY: Times Books Henry Hold and Company, LLC.
+- Fogg, B. J. (2009, April). A behavior model for persuasive design. Proceedings of the 4th International Conference on Persuasive Technology (p. 40). ACM
+- Gaver, W. (1999). Irrational aspects of technology: Anecdotal evidence. In C. J. Overbeeke & P. Hekkert (Eds.), Proceedings of the 1st -
+- International Conference on Design and Emotion (pp. 47-54). Delft: Delft University of Technology.
+- Lyubomirsky, S., Sheldon, K.M., & Schkade, D. (2005). “Pursuing happiness: the architecture of sustainable change”. Review of general Psycology, 9, pp. 111-131
+- Robbie, C., “Immersion”, New York Time Magazine, 2008.
+- Seligman, M. E. P. (2011). Flourish. New York, NY: Free Press.

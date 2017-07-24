@@ -37,3 +37,26 @@ Partner:
   link: >
     https://www.youtube.com/watch?v=8pemtW313o4
   logo: logo_network3.jpg
+- 
+  name: Ticino Musica
+  text: >
+    Ticino Musica is an international
+    meeting of young musicians coming from
+    all around the world. Ticino Musica has
+    been going on since 1979, and today is
+    known with the name Ticino Musica
+    international Classic. Apart from being
+    a cultural and social event, it is also
+    a touristic attraction. Each year it
+    brings in Ticino a group of 500 people
+    between students, teachers, supporting
+    staff, parents and the like, all coming
+    from different parts of the world, and
+    have them interact with the general
+    public in most major cities in the
+    Canton, in smaller towns, in rural
+    contexts, and in well recognized venues
+    contributing to the development of the
+    territory.
+  link: http://www.ticinomusica.com
+  logo: tm_logo_black_on_orange_grande.jpg

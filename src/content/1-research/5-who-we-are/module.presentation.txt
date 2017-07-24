@@ -36,9 +36,7 @@ People:
 - 
   name: Vanessa De Luca
   organization: SUPSI LCV
-  position: >
-    Coordinator and project manager lead
-    Supsi contribution
+  position: Coordinator and project manager
   img: vanessa.jpg
 - 
   img: aron-williamon.jpg
@@ -50,8 +48,8 @@ People:
   name: Ruth Hungerbühler
   organization: Accademia Teatro Dimitri
   position: >
-    Leads ATD contribution to Design for
-    Wellbeing project
+    Responsible of ATD, leads the ATD
+    contribution
 - 
   img: bausch-daniel.jpg
   name: Daniel Bausch
@@ -60,29 +58,34 @@ People:
     Responsible of Bachelor program and
     prof. of theatre improvisation
 - 
-  img: ""
+  img: hubert.jpg
   name: Hubert Eiholzer
   organization: Conservatorio della Svizzera Italiana
   position: >
-    Leads CSI contribution to Design for
-    Wellbeing project
+    Responsible of CSI, leads CSI
+    contribution
 - 
-  img: kunzstefan.jpg
-  name: Stefan Kunz
-  organization: SUPSI DEASS
-  position: >
-    Supervisor of learning methods and
-    social science approach
-- 
-  img: ""
-  name: Veronica Provenzale
-  organization: Accademia Teatro Dimitri
-  position: ""
+  img: cinzia.jpg
+  name: Cinzia Cruder
+  organization: Conservatorio della Svizzera italiana
+  position: Research on Performance and Health
 - 
   img: deniselombardi.jpg
   name: Denise Lombardi
   organization: Scientific collaborator
   position: Ethnographic research
+- 
+  img: kunzstefan.jpg
+  name: Stefan Kunz
+  organization: SUPSI DEASS
+  position: >
+    Supervisor of learning and social
+    science approaches
+- 
+  img: veronica.jpg
+  name: Veronica Provenzale
+  organization: Accademia Teatro Dimitri
+  position: Research Assistant
 - 
   img: giancarlo_gianocca.jpg
   name: Giancarlo Gianocca
@@ -97,7 +100,7 @@ People:
   img: marco-lurati.jpg
   name: Marco Lurati
   organization: SUPSI LCV
-  position: Scientific Collaborator
+  position: Design and Web Development
 
 ----
 

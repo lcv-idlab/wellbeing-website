@@ -6,6 +6,6 @@
   </div>
   <div class="text">
     <div class="col"><?php echo $module->left()->kt() ?></div>
-    <div class="col"><?php echo $module->left()->kt() ?></div>
+    <div class="col"><?php echo $module->right()->kt() ?></div>
   </div>
 </div>

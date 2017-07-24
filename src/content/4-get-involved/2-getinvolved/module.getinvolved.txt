@@ -9,7 +9,7 @@ Text: Feel you stronger in managing performance anxiety? You can help shape the 
 Survey: 
 
 - 
-  title: 'INTERVIEW  for Testimonials'
+  title: 'INTERVIEW  for Professionals'
   what: >
     What would you tell the young you about
     how to deal serenely with performance?
@@ -18,19 +18,19 @@ Survey:
   who: >
     For professional performing artists
     (musicians and actors).
-  when: Until end-July 2017.
+  when: Until mid-August 2017.
   where: Face to face (online and/or onsite)
   linktext: Contact us
   link: ""
 - 
-  title: SURVEY for Beginners
+  title: SURVEY for Students
   what: |
     Be part of your personal evolution, choose your tools for growth and share your wisdom with the community.
     
     Complete a 15-minute, online survey to be part of the project. You will be involved in the demo tool.
   who: >
-    For early performing artists (learners
-    and students).
+    For performing artists (learners and
+    students).
   when: Until end-Dec 2017.
   where: Worldwide
   linktext: Survey coming soon
