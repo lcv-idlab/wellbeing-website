@@ -1,0 +1,7 @@
+/dist
+.DS_Store
+/node_modules
+/src/thumbs
+/src/site/accounts
+/src/site/config/config.php
+/src/site/accounts
