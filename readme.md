@@ -19,5 +19,3 @@ $ gulp
 
 Use MAMP and set the folder "dist" as document root
 
-
-
