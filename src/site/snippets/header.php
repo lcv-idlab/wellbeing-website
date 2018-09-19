@@ -28,6 +28,9 @@
               </span>
             </a>
           <?php endforeach ?>
+          <a href="http://www.designforwellbeing.ch/upstage">
+              <span class="txt">UpStage Toolkit</span>
+          </a>
         </div>
         <?php if (count(Anchors::get())): ?>
           <div class="anchors">
@@ -63,5 +66,8 @@
             </span>
           </a>
         <?php endforeach ?>
+        <a href="http://www.designforwellbeing.ch/upstage">
+          <span class="txt">UpStage Toolkit</span>
+        </a>  
       </div>
     </nav>
